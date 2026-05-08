@@ -6,7 +6,7 @@
 
 **Author:** Kao, Yao-Kai · National Yang Ming Chiao Tung University (NYCU), Taiwan  
 **Version:** 0.5 · May 2026  
-**DOI (Zenodo):** [10.5281/zenodo.XXXXXXXX](https://zenodo.org) *(updated after upload)*  
+**DOI (Zenodo):** [10.5281/zenodo.20090525](https://zenodo.org) *(updated after upload)*  
 **License:** MIT (code) / CC BY 4.0 (text and figures)
 
 ---
@@ -140,7 +140,7 @@ theta_1  = np.degrees(np.arccos(r_peak_1 / np.sqrt(2)))  # 74.148°
   year      = {2026},
   month     = {May},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXXX},
+  doi       = {10.5281/zenodo.20090525},
   url       = {https://github.com/jackykao0811/geometric-physics-luoshu}
 }
 ```
